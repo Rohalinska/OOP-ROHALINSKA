@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zhB/s0BXJP8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dell\\IndependentWork12\\IndependentWork13\\IndependentWork13.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\polly\\8.6.5\\polly.8.6.5.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\polly.core\\8.6.5\\polly.core.8.6.5.nupkg.sha512"
+  ],
+  "logs": []
+}
