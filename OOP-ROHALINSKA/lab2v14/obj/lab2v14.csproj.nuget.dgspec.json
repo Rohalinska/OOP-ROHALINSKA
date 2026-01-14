@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dell\\OOP-ROHALINSKA\\lab1v14\\lab2v14\\lab2v14.csproj": {}
+    "C:\\Users\\Dell\\OOP-ROHALINSKA\\lab2v14\\lab2v14.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dell\\OOP-ROHALINSKA\\lab1v14\\lab2v14\\lab2v14.csproj": {
+    "C:\\Users\\Dell\\OOP-ROHALINSKA\\lab2v14\\lab2v14.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell\\OOP-ROHALINSKA\\lab1v14\\lab2v14\\lab2v14.csproj",
+        "projectUniqueName": "C:\\Users\\Dell\\OOP-ROHALINSKA\\lab2v14\\lab2v14.csproj",
         "projectName": "lab2v14",
-        "projectPath": "C:\\Users\\Dell\\OOP-ROHALINSKA\\lab1v14\\lab2v14\\lab2v14.csproj",
+        "projectPath": "C:\\Users\\Dell\\OOP-ROHALINSKA\\lab2v14\\lab2v14.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell\\OOP-ROHALINSKA\\lab1v14\\lab2v14\\obj\\",
+        "outputPath": "C:\\Users\\Dell\\OOP-ROHALINSKA\\lab2v14\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
