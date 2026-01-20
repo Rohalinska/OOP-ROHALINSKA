@@ -38,7 +38,7 @@ public class OrderProcessor
     {
         Console.WriteLine("Email sent");
     }
-
+    
 Цей клас:
 
 створює замовлення;
