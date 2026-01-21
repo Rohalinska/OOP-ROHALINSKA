@@ -56,3 +56,7 @@
 ## Скрін
 
 ![alt text](image.png)
+
+## UML-діаграма
+
+![alt text](image-1.png)
