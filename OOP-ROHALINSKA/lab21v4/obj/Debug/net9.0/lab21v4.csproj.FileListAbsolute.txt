@@ -1,0 +1,15 @@
+C:\Users\Dell\OOP-ROHALINSKA\lab21v4\bin\Debug\net9.0\lab21v4.exe
+C:\Users\Dell\OOP-ROHALINSKA\lab21v4\bin\Debug\net9.0\lab21v4.deps.json
+C:\Users\Dell\OOP-ROHALINSKA\lab21v4\bin\Debug\net9.0\lab21v4.runtimeconfig.json
+C:\Users\Dell\OOP-ROHALINSKA\lab21v4\bin\Debug\net9.0\lab21v4.dll
+C:\Users\Dell\OOP-ROHALINSKA\lab21v4\bin\Debug\net9.0\lab21v4.pdb
+C:\Users\Dell\OOP-ROHALINSKA\lab21v4\obj\Debug\net9.0\lab21v4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OOP-ROHALINSKA\lab21v4\obj\Debug\net9.0\lab21v4.AssemblyInfoInputs.cache
+C:\Users\Dell\OOP-ROHALINSKA\lab21v4\obj\Debug\net9.0\lab21v4.AssemblyInfo.cs
+C:\Users\Dell\OOP-ROHALINSKA\lab21v4\obj\Debug\net9.0\lab21v4.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OOP-ROHALINSKA\lab21v4\obj\Debug\net9.0\lab21v4.sourcelink.json
+C:\Users\Dell\OOP-ROHALINSKA\lab21v4\obj\Debug\net9.0\lab21v4.dll
+C:\Users\Dell\OOP-ROHALINSKA\lab21v4\obj\Debug\net9.0\refint\lab21v4.dll
+C:\Users\Dell\OOP-ROHALINSKA\lab21v4\obj\Debug\net9.0\lab21v4.pdb
+C:\Users\Dell\OOP-ROHALINSKA\lab21v4\obj\Debug\net9.0\lab21v4.genruntimeconfig.cache
+C:\Users\Dell\OOP-ROHALINSKA\lab21v4\obj\Debug\net9.0\ref\lab21v4.dll
