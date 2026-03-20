@@ -1,0 +1,12 @@
+C:\Users\Dell\OOP-ROHALINSKA\lab31\lab31vN\bin\Debug\net9.0\lab31vN.deps.json
+C:\Users\Dell\OOP-ROHALINSKA\lab31\lab31vN\bin\Debug\net9.0\lab31vN.dll
+C:\Users\Dell\OOP-ROHALINSKA\lab31\lab31vN\bin\Debug\net9.0\lab31vN.pdb
+C:\Users\Dell\OOP-ROHALINSKA\lab31\lab31vN\obj\Debug\net9.0\lab31vN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OOP-ROHALINSKA\lab31\lab31vN\obj\Debug\net9.0\lab31vN.AssemblyInfoInputs.cache
+C:\Users\Dell\OOP-ROHALINSKA\lab31\lab31vN\obj\Debug\net9.0\lab31vN.AssemblyInfo.cs
+C:\Users\Dell\OOP-ROHALINSKA\lab31\lab31vN\obj\Debug\net9.0\lab31vN.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OOP-ROHALINSKA\lab31\lab31vN\obj\Debug\net9.0\lab31vN.sourcelink.json
+C:\Users\Dell\OOP-ROHALINSKA\lab31\lab31vN\obj\Debug\net9.0\lab31vN.dll
+C:\Users\Dell\OOP-ROHALINSKA\lab31\lab31vN\obj\Debug\net9.0\refint\lab31vN.dll
+C:\Users\Dell\OOP-ROHALINSKA\lab31\lab31vN\obj\Debug\net9.0\lab31vN.pdb
+C:\Users\Dell\OOP-ROHALINSKA\lab31\lab31vN\obj\Debug\net9.0\ref\lab31vN.dll
