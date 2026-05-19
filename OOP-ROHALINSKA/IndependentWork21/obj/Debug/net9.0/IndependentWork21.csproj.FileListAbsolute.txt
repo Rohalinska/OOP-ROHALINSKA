@@ -1,0 +1,15 @@
+C:\Users\Dell\OOP-ROHALINSKA\OOP-ROHALINSKA\IndependentWork21\obj\Debug\net9.0\IndependentWork21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OOP-ROHALINSKA\OOP-ROHALINSKA\IndependentWork21\obj\Debug\net9.0\IndependentWork21.AssemblyInfoInputs.cache
+C:\Users\Dell\OOP-ROHALINSKA\OOP-ROHALINSKA\IndependentWork21\obj\Debug\net9.0\IndependentWork21.AssemblyInfo.cs
+C:\Users\Dell\OOP-ROHALINSKA\OOP-ROHALINSKA\IndependentWork21\obj\Debug\net9.0\IndependentWork21.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OOP-ROHALINSKA\OOP-ROHALINSKA\IndependentWork21\obj\Debug\net9.0\IndependentWork21.sourcelink.json
+C:\Users\Dell\OOP-ROHALINSKA\OOP-ROHALINSKA\IndependentWork21\bin\Debug\net9.0\IndependentWork21.exe
+C:\Users\Dell\OOP-ROHALINSKA\OOP-ROHALINSKA\IndependentWork21\bin\Debug\net9.0\IndependentWork21.deps.json
+C:\Users\Dell\OOP-ROHALINSKA\OOP-ROHALINSKA\IndependentWork21\bin\Debug\net9.0\IndependentWork21.runtimeconfig.json
+C:\Users\Dell\OOP-ROHALINSKA\OOP-ROHALINSKA\IndependentWork21\bin\Debug\net9.0\IndependentWork21.dll
+C:\Users\Dell\OOP-ROHALINSKA\OOP-ROHALINSKA\IndependentWork21\bin\Debug\net9.0\IndependentWork21.pdb
+C:\Users\Dell\OOP-ROHALINSKA\OOP-ROHALINSKA\IndependentWork21\obj\Debug\net9.0\IndependentWork21.dll
+C:\Users\Dell\OOP-ROHALINSKA\OOP-ROHALINSKA\IndependentWork21\obj\Debug\net9.0\refint\IndependentWork21.dll
+C:\Users\Dell\OOP-ROHALINSKA\OOP-ROHALINSKA\IndependentWork21\obj\Debug\net9.0\IndependentWork21.pdb
+C:\Users\Dell\OOP-ROHALINSKA\OOP-ROHALINSKA\IndependentWork21\obj\Debug\net9.0\IndependentWork21.genruntimeconfig.cache
+C:\Users\Dell\OOP-ROHALINSKA\OOP-ROHALINSKA\IndependentWork21\obj\Debug\net9.0\ref\IndependentWork21.dll
